@@ -1,6 +1,7 @@
 # Web3 E-Commerce App //savezon
 
 This is a simple e-commerce web application built with React, TypeScript, Tailwind CSS, and integrated with Web3 (MetaMask + Ethereum via ethers.js) for payment functionality. The app supports product listings, sorting by category, wishlist management, and blockchain-based ETH payments.
+## to check the live app- https://savezon.vercel.app/
 
 ## Features
 
